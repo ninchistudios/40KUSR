@@ -3,3 +3,8 @@ An attempt to create an easy reference for 40K USRs, aggregating Codexes and IA.
 
 # Legal
 All references and trademarks are the properties of their respective owners. No ownership is claimed or implied. This project is for non-profit hobby purposes.
+
+# Status
+
+* 7ed BRB: Underway
+* Codex: Dark Angels (2014): Not started
