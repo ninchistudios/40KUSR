@@ -22,3 +22,4 @@
 ###Editing
 
 * All rules must be in alphabetical order.
+* Reference precedence is chronological. In the event of conflict, FAQ > Codex > IA > BRB
