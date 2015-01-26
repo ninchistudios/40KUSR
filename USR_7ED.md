@@ -9,6 +9,11 @@
 | Armourbane | Roll additional D6 for armour penetration. | 7RBD | 20150121 | - |
 | Blast | Scatters 2D6 if not Hit. Centre template over target model up to max range. Cannot cover friendly model. Subtract firer BS from scatter distance (unless Barrage etc). Multiple blast determine all hits before all wounds. Partial cover counts as hit. Rerolls must reroll scatter dice and 2D6. Cannot Snap Shoot. | 7RBD | 20150121 | - |
 | Blast (Apocalyptic Mega) | TODO | 7RBD | 20150121 | - |
+| Blast (Apocalyptic Mega) | TODO | 7RBD | 20150121 | - |
+| Blast (Apocalyptic Mega) | TODO | 7RBD | 20150121 | - |
+| Blast (Apocalyptic Mega) | TODO | 7RBD | 20150121 | - |
+| Blast (Apocalyptic Mega) | TODO | 7RBD | 20150121 | - |
+| Blast (Apocalyptic Mega) | TODO | 7RBD | 20150121 | - |
 
 
 ###Glossary
