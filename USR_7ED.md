@@ -15,13 +15,12 @@
 | Barrage | Can fire indirectly, but BS not subtracted from scatter. Cover taken from centre template. | 7RBD | 20150126 | - |
 | Barrage (Multiple) | TODO | 7RBD | 20150126 | - |
 | Barrage (Apocalyptic) | TODO | 7RBD | 20150126 | - |
-| Deep Strike | All must have this rule and must start in Reserve. Roll for arrival as per Reserves (unless e.g. Deathwing Assault). All Difficult Terrain is Dangerous Terrain. May not move or assault on turn arriving from DS, may disembark. Can fire, Run/Turbo/Flat Out. Mishap if any model cannot be deployed, e.g. off table, on Impassable Terrain, on a friendly model, within 1" of enemy model. 1 unit lost 2-3 opponent place anywhere on table (incl Difficult Terrain)  | 7RBD | 20150126 | - |
-|  |  | 7RBD | 20150126 | - |
-|  |  | 7RBD | 20150126 | - |
-|  |  | 7RBD | 20150126 | - |
-|  |  | 7RBD | 20150126 | - |
-|  |  | 7RBD | 20150126 | - |
-
+| Deep Strike | All must have this rule and must start in Reserve. Roll for arrival as per Reserves (unless e.g. Deathwing Assault). All Difficult Terrain is Dangerous Terrain. May not move or assault on turn arriving from DS, may disembark. Can fire, Run/Turbo/Flat Out. Mishap if any model cannot be deployed, e.g. off table, on Impassable Terrain, on a friendly model, within 1" of enemy model. 1 unit lost, 2-3 opponent place anywhere on table (incl Difficult Terrain), 4-6 Delayed | 7RBD | 20150126 | - |
+| Concussive | Reduced to Init 1 until end of following Assault phase. | 7RBD | 20150126 | - |
+| Counter-attack | If charged, every model with the rule gets +1A until end of phase. | 7RBD | 20150126 | - |
+| Crusader | Roll an extra dice for Run, take highest. Add D3 to Sweeping Advance total. | 7RBD | 20150126 | - |
+| Daemon | 5++ and Fear | 7RBD | 20150126 | - |
+| Destroyer (D) Weapon | Roll to Hit normally. Use table instead of Wound/Armour roll. Can take Cover/Invul saves unless Devastating Hit. Counts as S10 for Instant Death. Multiple wounds/HP do not carry over. 1 - Lucky Escape, 2-5 - Pen + D3 HP or D3 auto wounds, 6 - Devastating Hit Pen + D6+6 HP or D6+6 auto wounds. | 7RBD | 20150126 | - |
 
 
 ###Glossary
